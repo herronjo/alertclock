@@ -29,5 +29,6 @@ A whole lot of wires
 
 A breadboard
 
+A 3D printed case of your own design (I'll upload a model soon)
 
 # More documentation to come.
